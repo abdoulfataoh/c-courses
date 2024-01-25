@@ -34,6 +34,7 @@ int menu(){
 // Creer une fonction Ajouter qui permet d'ajouter un contact
 // dans une tableau
 // A completer
+// N'oubier pas de declarer une variable global qui contiendra la liste des contact
 
 void ajouter()
 {
